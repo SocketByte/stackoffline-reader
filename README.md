@@ -18,6 +18,11 @@ It's very simple. Just download the `stack-reader-1.0-SNAPSHOT.jar` file from
 the Releases tab. 
 Then just download complete `.bat` or `.sh` executables, OR make your own.
 
+You need a `.zip` file with all Stackoverflow data.
+You can either make one yourself using `stackoffline-downloader`, or download one.
+
+[Click here to download: Java tag, approx. 700.000 questions, 1.2GB](http://www.mediafire.com/file/msrp97mhlm7l97q/data.zip/file)
+
 ### Configuration
 StackOffline Data Reader takes only 1 argument, which is your path to `.zip` data file.
 ```batch
